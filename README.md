@@ -1,4 +1,5 @@
 # shell_script
 
 Some Shell script
-I used them for convert CSV to json and organize data.
+Some script are used for convert CSV to json and organize data.
+The others are describe in titles.
